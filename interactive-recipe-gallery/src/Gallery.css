@@ -1,0 +1,36 @@
+body {
+    background-color: #fcfcdfac;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+    width: 500px; 
+    height: 600px; 
+    border: 8px solid #166d00;
+  }
+  
+
+p {
+    text-align: center;
+    font-size: 23px;
+  }
+
+button {
+    display: block; 
+    margin: 10px auto; 
+    padding: 15px 20px; 
+    font-size: 16px; 
+    background-color: #fff; 
+    border: 2px solid #000; 
+    cursor: pointer; 
+  }
+
+  
+  
